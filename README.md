@@ -17,6 +17,8 @@ A classroom-style interview that verifies whether you *actually* understand the 
 2. Socratic interview — 5–10 questions across Recall / Comprehension / Application tiers
 3. Final report — strengths with `file:line` citations, gaps, and a one-line verdict
 
+> **Token warning:** RU-Imposter explores the entire codebase before asking its first question. On large repos this can burn a significant number of tokens. To keep costs down, be specific about the area you want to be tested on (e.g. "the auth module" or `src/payments/`) rather than saying "the whole project".
+
 ---
 
 ## Installation
