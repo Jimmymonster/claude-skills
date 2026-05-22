@@ -36,10 +36,3 @@ mkdir -p ~/.claude/skills/ru-imposter
 curl -o ~/.claude/skills/ru-imposter/SKILL.md \
   https://raw.githubusercontent.com/Jimmymonster/claude-skills/main/skills/ru-imposter/SKILL.md
 ```
-
-## Contributing
-
-Skills should be:
-- **Focused** — one clear workflow per skill
-- **Grounded** — instructions reference real code, not hypotheticals  
-- **Composable** — work alongside other skills without conflict
