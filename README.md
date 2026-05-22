@@ -1,8 +1,5 @@
 # Claude Skills
 
-> **Do you vibe-code all day but quietly panic when someone asks how your own system actually works?**
-> These skills will find out — and help you fix that.
-
 A collection of custom Claude Code skills created by [Jimmymonster](https://github.com/Jimmymonster).
 
 Skills are small, composable agent behaviors that extend Claude Code with structured workflows. Drop them into your project or user-level `.claude/skills/` folder and invoke them with `/skill-name`.
@@ -10,6 +7,9 @@ Skills are small, composable agent behaviors that extend Claude Code with struct
 ## Skills
 
 ### [RU-Imposter](./skills/ru-imposter/SKILL.md)
+
+> **Do you vibe-code all day but quietly panic when someone asks how your own system actually works?**
+> This skill will find out — and help you fix that.
 
 A classroom-style interview that verifies whether you *actually* understand the codebase — not just its surface. Grounds every question in real file paths and function names. Ends with an honest report of strengths and gaps.
 
