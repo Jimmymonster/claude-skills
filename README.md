@@ -1,5 +1,8 @@
 # Claude Skills
 
+> **Do you vibe-code all day but quietly panic when someone asks how your own system actually works?**
+> These skills will find out — and help you fix that.
+
 A collection of custom Claude Code skills created by [Jimmymonster](https://github.com/Jimmymonster).
 
 Skills are small, composable agent behaviors that extend Claude Code with structured workflows. Drop them into your project or user-level `.claude/skills/` folder and invoke them with `/skill-name`.
